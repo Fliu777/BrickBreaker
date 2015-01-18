@@ -1,0 +1,3 @@
+This was a Java class Assignment where we were to program a BrickBreaker clone. I was inspired by a website that had games that looked like actual work, and created the game so that the background was the exact same as the text editor we were using to program Java.
+
+Use the mouse to control the "paddle" on the bottom, and run the bat file. (feel free to edit it and check that it is just compiling and then executing the java code)
