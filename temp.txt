@@ -1,0 +1,1 @@
+. Atomic Number- This is the amount of protons in an atom. Since different elements have a different amount of protons, this uniquely determine what element a particular atom is.
